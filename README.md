@@ -13,7 +13,8 @@
     [License](#license) |
     [Questions](#questions) |
     [GitHub](#github) |
-    [Email](#email)
+    [Email](#email) |
+    [Screenshots](#screenshots)
     
   ## Description:
   a social image sharing site built in react with a mongo database. The application allows users to log in with google and make and update an account, make posts, and have pins set to a map for each post.
@@ -40,8 +41,9 @@
   ### Email:
   pickensprogramming@gmail.com
 
-  -[Back to Top](#)
+  
 ## Screenshots:
 ![homepage screenshot](./hompage.jpg)
 ![user page screenshot](./userpage.jpg)
 ![map page screenshot](./earth.jpg)
+-[Back to Top](#)
